@@ -2,7 +2,7 @@
 
 # Hey, I'm Riad 👋
 
-**CS @ University of Southern Mississippi** • **Graduating May 2027** • **CodePath Alumni**
+**CS @ University of Southern Mississippi** • **Graduating May 2028** • **CodePath Alumni**
 
 Building AI-powered tools that solve real problems
 
