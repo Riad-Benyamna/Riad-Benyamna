@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Riad 👋
+# Riad Benyamna
 
-**CS @ University of Southern Mississippi** • **Graduating May 2028** • **Colorstack** • **CodePath Alumni**
+**CS @ University of Southern Mississippi** · **Graduating May 2028** · **ColorStack** · **CodePath**
 
-Building AI-powered tools that solve real problems
+AI Fellow at AWS · Contributor at GitLab · Google DeepMind Hackathon · Microsoft TEALS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-benyamna)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riad.benyamna2020@gmail.com)
@@ -13,81 +13,74 @@ Building AI-powered tools that solve real problems
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Working On
 
-**[Found.It](https://github.com/UnknownHacker1/Found.it)** - AI semantic search engine  
-*Hackathon Finalist* • Indexes 47k+ files across 60+ formats using transformers & FAISS
+**AWS x Mississippi AI Innovation Hub** — Selected statewide to build a Self-Healing PKI Infrastructure platform for Mississippi ITS and MDA. Event-driven certificate lifecycle management using Python, FastAPI, Redis Streams, Docker, and ACME protocol — targeting 95%+ zero-touch renewals for state agencies.
 
-**[Stockly](https://github.com/Hossam-Ismail/Stock-Extension)** - Real-time stock analysis  
-Chrome extension with AI sentiment scoring • 5+ API integrations • PostgreSQL backend
-
-**[ML Stock Forecasting](https://github.com/Jinmamak/Stocks-Data-Dashboard)** - Predictive analytics system  
-85%+ accuracy using Random Forest • 1000+ Monte Carlo simulations
+**GitLab** — Contributing a reusable `IndexLayout` Vue component to GitLab's shared frontend design system, shipped through the official MR review process in a production-scale Rails and Vue monorepo.
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-### Languages
+**[TrialGuard](https://github.com/Riad-Benyamna/trialguard)** — Google DeepMind Gemini Hackathon  
+AI platform that detects clinical trial protocol flaws before execution. Reduces expert review from weeks to under 60 seconds. Built with Gemini 2.0 Pro, FastAPI, Docker, and React 18.
+
+**[Found.It](https://github.com/UnknownHacker1/Found.it)** — Hackathon Finalist  
+Semantic file search engine indexing 47k+ files across 60+ formats using Sentence Transformers and FAISS.
+
+**[Stockly](https://github.com/Hossam-Ismail/Stock-Extension)** — Chrome Extension  
+Real-time stock analysis with AI sentiment scoring, 5+ financial API integrations, and a PostgreSQL backend.
+
+---
+
+## Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**AI & ML**
+
+![Gemini](https://img.shields.io/badge/Gemini_2.0_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Full-Stack
+**Full-Stack**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Infrastructure & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎯 Currently
+## Currently
 
-- 🔭 Building **Found.It** - AI semantic search for desktop files
-- 🌱 Learning advanced **vector databases** and **embedding techniques**
-- 💼 Seeking **Summer 2026 SWE internships**
-- 🎓 Excellence Scholar (Top 1%) @ USM
-- 🌍 Multilingual: English, French, Arabic, Spanish
-
----
-
-## 📫 Let's Connect
-
-Looking for Summer 2026 software engineering internships in:
-- Backend systems & API development
-- Machine learning & AI applications
-- Full-stack product development
-
-Open to opportunities at startups, FAANG, or anywhere building cutting-edge tech.
-
-**[Email me](mailto:riad.benyamna2020@gmail.com)** • **[LinkedIn](https://linkedin.com/in/riad-benyamna)**
+- Building a government-scale PKI automation platform for Mississippi ITS as an AWS AI Fellow
+- Contributing to GitLab's frontend design system via the CodePath open source program
+- Seeking Summer 2026 SWE internships in AI, backend systems, and full-stack product development
+- Excellence Scholar (Top 1%) at the University of Southern Mississippi
+- Fluent in English, French, Arabic, and conversational Spanish
 
 ---
 
 <div align="center">
 
-*"Building tools that make people's lives easier"*
+Open to Summer 2026 internship opportunities at startups, FAANG, and anywhere building serious AI products.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jinmamak&color=blueviolet&style=flat-square)
+**[Email me](mailto:riad.benyamna2020@gmail.com)** · **[LinkedIn](https://linkedin.com/in/riad-benyamna)**
 
 </div>
