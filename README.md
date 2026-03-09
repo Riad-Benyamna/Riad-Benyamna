@@ -78,7 +78,6 @@ Real-time stock analysis with AI sentiment scoring, 5+ financial API integration
 
 <div align="center">
 
-Open to Summer 2026 internship opportunities at startups, FAANG, and anywhere building serious AI products.
 
 **[Email me](mailto:riad.benyamna2020@gmail.com)** · **[LinkedIn](https://linkedin.com/in/riad-benyamna)**
 
